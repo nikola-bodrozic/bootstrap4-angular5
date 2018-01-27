@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "b4ng5"
+    "name": "Bootstrap-4-and-Angular 5"
   },
   "apps": [
     {
